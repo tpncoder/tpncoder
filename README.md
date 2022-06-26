@@ -1,7 +1,7 @@
 # Hi, I am tpnncoder(a dumbass)
 
 ### About myself
-- I am currently learning C++ and JavaScript
+- I am currently learning C++ and Golang
 
 ### Languages and Tools
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=161320&logo=gnu-bash&logoColor=4EAA25)
