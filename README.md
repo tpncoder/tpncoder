@@ -1,12 +1,12 @@
-# Hi, I am tpnncoder(a dumbass)
+# Hi, I am tpncoder
 
 ### About myself
-- I am currently learning C++ and Golang
+- I am currently learning C++ ,Golang and Rust
 
 ### Languages and Tools
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=161320&logo=gnu-bash&logoColor=4EAA25)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=161320&logo=lua&logoColor=0062cc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=161320&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=161320&logo=rust&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=161320&logo=python&logoColor=4EAA25)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=161320&logo=markdown)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=161320&logo=neovim&logoColor=4b9e4b)
